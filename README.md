@@ -11,8 +11,9 @@ Question 2 :
 
 Question 3: 
 ![Capture d'écran 2023-12-22 103927](https://github.com/Zeven19/labo1920/assets/120576639/7d059479-4576-4e97-8f95-c553adbc8c1d)
-![image](https://github.com/Zeven19/labo1920/assets/120576639/b10e0db5-381c-4b74-be5b-25be8c6dfe61)
 
+
+![Capture d'écran 2023-12-22 104047](https://github.com/Zeven19/labo1920/assets/120576639/30415c98-0d6e-4783-93eb-d361a8e38cab)
 
 
 Question 5 : 
